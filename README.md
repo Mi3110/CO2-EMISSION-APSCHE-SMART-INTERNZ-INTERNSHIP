@@ -4,46 +4,46 @@ Welcome to the CO2 Emission Analysis Visualization Project! This repository is c
 
 Following are my details:
 
-MY NAME: Nallamilli Aisshwarya
+MY NAME: Mudaliar Suresh Mihir
 
-MY MAIL ID: nallamilliaisshwarya@gmail.com
+MY MAIL ID: mudaliarmihir31@gmail.com
 
-ACADEMIC DETAILS: B.Tech(CSE),4th Year (8th Sem)
+ACADEMIC DETAILS: B.Tech(CSE-AI&ML),4th Year (8th Sem)
 
 COLLEGE NAME: Pragati Engineering College
 
-ROLL NUMBER: 20A31A0516
+ROLL NUMBER: 21A35A4205
 
 IN THIS FILE , WE CAN SEE ALL LINKS FOR THE ENTIRE PROJECT
 
 WEBSITE LINK :
 
-https://20a31a0516.github.io/CO2-EMISSION-APSCHE-SMART-INTERNZ-INTERNSHIP/
+https://Mi3110.github.io/CO2-EMISSION-APSCHE-SMART-INTERNZ-INTERNSHIP/
 
 SHEET 1 :
 
-https://public.tableau.com/views/co2emission-APSCHEInternship/Emission1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/co2emission-APSCHEInternship_17141058451530/Emission1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 SHEET 2 :
 
-https://public.tableau.com/views/co2emission-APSCHEInternship/Emission2?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/co2emission-APSCHEInternship_17141058451530/Emission2?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 SHEET 3 :
 
-https://public.tableau.com/views/co2emission-APSCHEInternship/Emission3?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/co2emission-APSCHEInternship_17141058451530/Emission3?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 SHEET 4 :
 
-https://public.tableau.com/views/co2emission-APSCHEInternship/Emission4?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/co2emission-APSCHEInternship_17141058451530/Emission4?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 DASHBOARD 1 :
 
-https://public.tableau.com/views/co2emission-APSCHEInternship/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/co2emission-APSCHEInternship_17141058451530/Dashboard1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 DASHBOARD 2 :
 
-https://public.tableau.com/views/co2emission-APSCHEInternship/Dashboard2?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/co2emission-APSCHEInternship_17141058451530/Dashboard2?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 STORY :
 
-https://public.tableau.com/views/co2emission-APSCHEInternship/CO2EMISSSION?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/co2emission-APSCHEInternship_17141058451530/CO2EMISSSION?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
